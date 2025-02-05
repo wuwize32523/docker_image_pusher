@@ -9,6 +9,3 @@ xhofe/alist:v3.29.1            # 文件管理系统，指定版本更稳定
 
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist:latest    # ARM64版本
-
-# 验证测试
-hello-world:latest              # 验证测试用
